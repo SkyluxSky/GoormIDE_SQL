@@ -1,0 +1,3 @@
+CREATE DATABASE shirts_db;
+
+SHOW DATABASES;
